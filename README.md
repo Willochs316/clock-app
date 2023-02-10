@@ -4,7 +4,7 @@ This is a simple clock application that displays the current time.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hw78qgcke0k786v9lo8c.png)
 
 ## Features
--
+
 Shows the current time in a digital format
 Automatic updates of time
 Lightweight and easy to use
